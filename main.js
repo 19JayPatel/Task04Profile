@@ -23,5 +23,5 @@ function openp2() {
 }
 
 function openp3() {
-    window.location.href = "https://www.google.com";
+    window.location.href = "https://19jaypatel.github.io/Task05Weatherapp/";
 }
